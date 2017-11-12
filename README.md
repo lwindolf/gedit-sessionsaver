@@ -16,6 +16,8 @@ The translation of the plugin is not available in this repository, but it is alw
 
 ## Installation
 
+For easy automatic installation you can install this plugin using the [Gedit Plugin Installer](https://github.com/lwindolf/gedit-plugininstaller/) or you can do it manually:
+
 1. Download the source code form this repository in [zip format](https://github.com/sphax3d/gedit-sessionsaver/zipball/master), in [tar format](https://github.com/sphax3d/gedit-sessionsaver/tarball/master) or using the `git clone` command:
 
         $ git clone https://github.com/sphax3d/gedit-sessionsaver.git
